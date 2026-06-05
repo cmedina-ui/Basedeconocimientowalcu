@@ -1,0 +1,29 @@
+﻿Configura tu Correo Electrónico en Walcu
+En este documento aprenderás a configurar tu correo electrónico dentro de la plataforma Walcu. Sigue los pasos cuidadosamente para asegurar que tu cuenta de correo esté correctamente configurada y funcional.
+Paso 1
+Para comenzar, selecciona el ícono de engranaje ubicado en la parte superior derecha de la pantalla.
+
+
+
+
+
+Paso 2
+En el menú de la izquierda, busca y selecciona la opción de "Ajustes de email".
+
+Paso 3
+Dentro del menú de ajustes de email, encontrarás tres opciones. La selección dependerá del proveedor de correo electrónico que utilices habitualmente. Por ejemplo, selecciona "Sign in with Microsoft" si usas Outlook. Si utilizas Gmail, selecciona "Sign in with Google". ¡Perfecto! Tu correo electrónico ya está configurado. Si utilizas un dominio diferente continúa con el Paso 4.
+
+
+Paso 4
+Si utilizas un dominio diferente a los mencionados, selecciona la tercera opción y haz clic en "Añadir cuenta".
+
+Paso 5
+Haz clic en "siguiente". Solicita a tu personal de TI o proveedor de correo que te proporcione el servidor y número de puerto necesarios. Luego, introduce tu contraseña de correo electrónico para completar la configuración. Una vez configurado correctamente, deberías ver una pantalla similar a la siguiente.
+
+
+Paso 6
+Haz clic en "Probar conectividad saliente". Si la configuración es correcta, recibirás una confirmación.
+
+Paso 7
+¡Perfecto! Tu correo electrónico ya está configurado.
+

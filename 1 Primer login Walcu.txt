@@ -1,0 +1,15 @@
+﻿Primer login Walcu
+Este proceso describe cómo restablecer la contraseña para acceder a la plataforma Walku por primera vez mediante el correo electrónico registrado.
+Paso 1
+Si es la primera vez que ingresas a Walcu, selecciona la opción "Olvidé mi contraseña". Ingresa el correo electrónico con el que fuiste registrado, completa el Captcha de verificación y haz clic en el botón "Request Password Change". Revisa tu correo electrónico; recibirás un enlace para restablecer la contraseña. Haz clic en el enlace y serás dirigido al apartado para crear una nueva contraseña.
+
+
+
+
+
+Paso 2
+La contraseña debe cumplir con los requisitos establecidos.
+
+Paso 3
+Presiona el botón "Cambiar Contraseña". Ahora podrás acceder por primera vez a Walcu con tu nueva contraseña.
+
