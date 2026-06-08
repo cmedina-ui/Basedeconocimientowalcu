@@ -1,0 +1,20 @@
+﻿Configuración del nombre y dominio de la cuenta
+En este proceso se muestra cómo acceder a la configuración básica de la cuenta para asignar un nombre a tu cuenta y añadir los dominios que le pertenecen evitando la creación de leads con correos internos.
+Paso 1: 
+Dirigirse al menú de configuración seleccionando el icono de engranaje para acceder a la configuración.
+
+
+
+
+
+Paso 2: 
+Dentro del menú de configuración, seleccionar la opción Dealer y accede al apartado Ajustes básicos.
+
+Step 3: 
+En la pantalla de ajustes básicos, localizar el campo correspondiente al nombre del dealer y escribir el nombre deseado para la cuenta.
+
+
+Paso 4: 
+En el mismo apartado, puedes añadir los dominios que pertenezcan al dealer. Por ejemplo, se puede registrar un dominio como "pruebas.com". Así tendrás el nombre y el dominio definido.
+
+

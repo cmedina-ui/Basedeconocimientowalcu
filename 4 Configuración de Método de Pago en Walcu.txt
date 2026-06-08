@@ -1,0 +1,28 @@
+﻿Configuración del método de pago en Walcu
+En este procedimiento se explica cómo acceder al apartado de facturación de Walcu, completar la información de facturación y añadir un método de pago (tarjeta o débito directo SEPA) para dejar la cuenta correctamente configurada.
+Paso 1: 
+Acceder al apartado de Facturación. Dirígete al menú Legal en la parte izquierda de la pantalla, y, dentro de este, selecciona la opción Facturación.
+
+
+
+
+
+Paso 2: 
+Completar la Información de facturación. En la sección Información de facturación, rellenar todos los campos solicitados: razón social, teléfono de contacto, correo electrónico para la recepción de facturas, dirección postal completa, código postal, ciudad, provincia, país y los números de identificación fiscal correspondientes. Para el caso de España, revisar las diferentes opciones disponibles en el desplegable de tipos de identificación fiscal y seleccionar la que aplique.
+
+Paso 3: 
+Una vez completados todos los datos de facturación, hacer clic en el botón "Añadir método de pago".
+
+Paso 4: 
+En la ventana emergente que se abre, seleccionar entre las dos opciones disponibles: tarjeta o débito directo SEPA. Para este ejemplo de prueba, seleccionaremos la opción de tarjeta.
+
+Paso 5: Seleccionar el método de pago Tarjeta
+Introducir todos los datos de la tarjeta: número de tarjeta, fecha de caducidad, código de seguridad, nombre completo de la persona titular de la tarjeta y el país correspondiente. A continuación, hacer clic en Guardar para confirmar el método de pago.
+
+Paso 6: Seleccionar el método de pago SEPA
+Si elegiste el método de pago SEPA, se mostrará el formulario correspondiente para ingresar los datos de la cuenta bancaria. Ingresa el IBAN de la cuenta, el nombre del titular de la cuenta y la dirección de facturación asociada, verificando que toda la información esté correcta y completa. Haz clic en el botón "Setup bank account" para guardar la configuración de la cuenta SEPA y finalizar el proceso de alta del método de pago.
+
+
+Paso 7: 
+Comprobar que, tras guardar, aparece la tarjeta configurada correctamente en la sección de métodos de pago. En caso de haber elegido débito directo SEPA, verificar que se muestra la información correspondiente a dicho método. Una vez realizada esta comprobación, el método de pago quedará correctamente configurado en Walcu.
+

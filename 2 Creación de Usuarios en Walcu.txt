@@ -1,0 +1,14 @@
+﻿Creación de un nuevo usuario en Walcu
+Este procedimiento describe los pasos necesarios para registrar un nuevo usuario en la plataforma Walcu, especificando datos, asignando roles y estableciendo configuraciones de seguridad iniciales.
+Paso 1
+Accede al menú de Ajustes y, en el menú de la izquierda, selecciona la opción "Usuarios". Haz clic en el botón Crear Usuario. Completa los campos de nombre, apellido y correo electrónico para la persona que deseas agregar. Ingresa una contraseña temporal que cumpla con los requisitos indicados en la sección inferior.
+
+
+
+
+Paso 2
+La contraseña ingresada se utiliza únicamente para la creación de la cuenta; la persona del usuario creado deberá seleccionar la opción "He olvidado mi contraseña" en su primer acceso para establecer una contraseña propia. Es fundamental seleccionar el rol adecuado para el nuevo usuario; en este caso, se muestra la opción de comercial. En la sección de Seguridad, marca la opción "Requerir cambio de contraseña en el primer login". 
+
+Paso 3
+Haz clic en Crear Usuario para finalizar el proceso. El nuevo usuario ya estará registrado en Walku.
+

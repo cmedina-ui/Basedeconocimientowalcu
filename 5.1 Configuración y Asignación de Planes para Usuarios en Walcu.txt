@@ -1,0 +1,98 @@
+﻿Configuración de planes para usuarios en Walcu
+En este documento se detalla cómo revisar la información principal de cada usuario en Walcu, asignarles los planes correspondientes (base, mensajería, voz IP o integración GSM) y configurar sus parámetros clave, como números asociados, zona horaria, idioma y horario de trabajo.
+Paso 1: 
+Acceder al perfil de la persona usuaria. Una vez que ya se han comprado los planes y creado los horarios, el siguiente paso es aplicarlos a las personas usuarias y revisar que todos los datos iniciales estén correctos. Para ello, ir al icono de engranaje en la esquina superior derecha.
+
+
+
+
+
+
+
+Seleccionar Usuario en el menú de la izquierda.
+
+
+Entrar en la opción Perfil.
+
+
+Paso 2: 
+Verificar los datos básicos del perfil. En el perfil, revisar cuidadosamente que:
+• El correo electrónico sea el correcto.
+• El nombre y apellido estén bien escritos.
+• El rol asignado sea el adecuado según sus funciones dentro de la organización.
+• Los planes activos correspondan a las tareas que esa persona va a realizar en Walcu.
+Paso 3: 
+Activar el plan base obligatorio. Cada usuario que vaya a utilizar Wawku debe tener obligatoriamente un plan base activo. Localiza el plan base y haz clic en el botón para activarlo.
+
+
+
+
+
+
+
+Paso 4: 
+Activar los planes adicionales según la necesidad. Después de activar el plan base, activar los demás planes que se necesiten según el caso concreto.
+Por ejemplo, si el comercial de prueba necesita un plan de mensajería y un plan de voz IP.
+
+Activar estos planes adicionales según corresponda.
+
+Una vez activos:
+• El plan de mensajería se utilizará si envía SMS, correos electrónicos y WhatsApp desde Walcu.
+• El plan de voz IP se utilizará si realiza las llamadas desde Walcu y se desea que las grabaciones de llamadas queden registradas en el CRM.
+Paso 5: 
+Elegir entre voz IP o integración GSM (no ambas). Si, en tu caso, las personas comerciales van a utilizar su móvil de trabajo para realizar las llamadas y no se va a utilizar la grabación de llamadas desde Walcu, entonces se debe activar la integración GSM.
+
+En este escenario:
+• Activar la integración GSM.
+• No activar el plan de voz IP al mismo tiempo.
+En un mismo usuario no deben estar activas voz IP y GSM simultáneamente.
+Recordar siempre no activar planes que no se vayan a utilizar.
+
+
+
+
+
+Paso 6: 
+Completar la configuración específica de cada plan. Si se activa un plan, es obligatorio completar sus datos correspondientes para cada plan.
+
+Por ejemplo, para Integración GSM, escribir el número de teléfono de la persona comercial.
+
+
+
+
+
+
+Para el Plan de mensajería, seleccionar el número saliente de WhatsApp que se utilizará. Repetir un proceso similar para SMS, si se va a utilizar ese canal.
+
+
+Para el Plan de voz IP (si aplica), seleccionar el número de voz IP correspondiente que vaya a utilizar esa persona comercial en sus llamadas desde Walcu.
+
+
+
+
+
+.
+Paso 7: 
+Configurar zona horaria, idioma y horario. Revisar que la zona horaria (time zone) esté configurada correctamente en las opciones de la parte superior de la pantalla. Si no lo está, seleccionarla de manera manual entre las opciones disponibles.
+
+
+A continuación, configura el idioma de la persona usuaria.
+
+
+
+
+
+
+
+Además, se selecciona el horario adecuado para cada usuario.
+
+Recordar que, para que ese horario aparezca en la lista, se debe haberla compartido previamente. Esto se hace desde la opción "Dealer" en el menú de la izquierda, en la categoría "Horarios" y seleccionando el horario que se desea compartir.
+
+
+
+
+
+
+
+En el panel de arriba deberás agregar el grupo de usuarios que debe tener este horario. 
+ 

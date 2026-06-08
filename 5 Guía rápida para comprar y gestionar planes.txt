@@ -1,0 +1,33 @@
+﻿Selección y Compra de Planes en Walcu CRM
+Este proceso explica cómo elegir y adquirir los planes adecuados para cada usuario en Walcu CRM, describiendo brevemente la función de cada uno y la lógica para seleccionar la cantidad correcta según las necesidades de tu equipo.
+Paso 1
+Te explicamos cómo adquirir planes y la función de cada uno para que selecciones la opción más adecuada. 
+● El plan base es indispensable para acceder y operar en la plataforma. 
+● El plan de llamadas VOZ IP permite realizar llamadas directamente desde la web y acceder a las grabaciones.
+● La integración GSM permite registrar las llamadas hechas desde tu móvil mediante Walcu Phone. Estas llamadas quedan registradas pero no se graban.
+● El plan de mensajería te permite gestionar emails, SMS y WhatsApp. 
+
+
+
+
+Paso 2
+Es importante mencionar que las licencias son personales para cada usuario. Esto significa que necesitas adquirir tantos planes como personas vayan a utilizarlos. Por ejemplo, si hay tres integrantes en tu equipo, será necesario comprar tres planes base.
+Si deseas que esos tres integrantes accedan a todas las funcionalidades, deberás adquirir los planes necesarios para cubrir las necesidades de cada persona individualmente. Esto depende de tu situación específica.
+Recuerda que este es solo un ejemplo. Si solo cuentas con un integrante, basta con comprar un plan base y los adicionales que requieras según tus necesidades. El procedimiento es sencillo.
+
+
+
+
+
+
+
+Paso 3
+Para adquirir los planes: Accede a configuraciones, en el menú de la izquierda haz click en el apartado "Legal" y entra en el subapartado "Facturación". En esta ventana haz click en "Suscripción WALCUCRM", desde ahí podrás comprar los paquetes o la cantidad de licencias necesarias. En la barra de estado podrás visualizar las licencias disponibles, en uso y asignadas, y añadir más según requieras.
+
+Paso 4
+Adquiere la cantidad de planes según el número de integrantes que lo necesiten. Una vez definida la cantidad de licencias, selecciona el botón de "Continuar" para completar la compra utilizando el método de pago registrado.
+
+
+Paso 5
+¡Listo! Los planes de Walcu ya están adquiridos y listos para ser asignados a cada usuario.
+
